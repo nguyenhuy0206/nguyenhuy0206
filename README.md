@@ -1,21 +1,66 @@
-# 💫 About Me:
-🔭 I’m currently working on Embedded System and AI<br>🌱 I’m currently learning javascript, ML <br><br>⚡ I love ocean fish
+[README.md](https://github.com/user-attachments/files/34671959/README.md)
+<div align="center">
 
+# Huy Nguyen
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyen-huy-18a398277/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenhuy02062004@gmail.com) 
+**M.S. Student in Computer Systems Engineering**  
+University of Houston
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nguyenhuy0206&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nguyenhuy0206&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuy0206&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Robotics · Embodied AI · Computer Vision*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[GitHub](https://github.com/nguyenhuy0206) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL_ADDRESS)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nguyenhuy0206&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+I am a master's student in Computer Systems Engineering at the **University of Houston**, with research interests at the intersection of **robotics, computer vision, and machine learning**. I am particularly interested in how visual perception and learned representations can support reliable, efficient decision-making in physical systems.
+
+My current work spans vision-guided robot manipulation, industrial visual anomaly detection, and dynamic 3D/4D scene understanding.
+
+### Research Interests
+
+- **Robotics & Embodied AI:** Vision-guided manipulation, perception-to-action pipelines, and AI-assisted robot control.
+- **Computer Vision:** Visual anomaly detection, representation learning, and efficient inference.
+- **3D/4D Vision:** Dynamic scene reconstruction, neural rendering, and deformation modeling.
+
+### Selected Research & Projects
+
+**Vision-Guided Robot Manipulation — Dobot Nova 2**  
+Developing a camera-to-computer-to-robot workflow for basic pick-and-place tasks, including perception, robot action interfaces, and AI-assisted task planning.  
+*Python · Robot TCP/IP Control · Computer Vision · LLM Tool Use*  
+<!-- Add a repository or demo link when ready. -->
+
+**Compact Memory for PCB Anomaly Detection**  
+Investigating adaptive feature compression and compact prototype memories for visual anomaly detection on printed circuit boards, with an emphasis on detection quality and resource efficiency.  
+*PyTorch · Industrial Computer Vision · Anomaly Detection*  
+<!-- Add a repository or preprint link when public. -->
+
+**Dynamic Endoscopic Scene Understanding**  
+Studying dynamic 3D/4D reconstruction and deformation modeling, including Gaussian-splatting-based approaches and evaluation of reconstructed scenes.  
+*3D Computer Vision · Neural Rendering · Dynamic Reconstruction*  
+<!-- Add a repository or project page when ready. -->
+
+### Technical Expertise
+
+| Area | Tools & Methods |
+| --- | --- |
+| Programming | Python, C, C++, Bash |
+| Machine Learning & Vision | PyTorch, OpenCV, TensorFlow |
+| Robotics & Embedded Systems | Robot TCP/IP interfaces, Raspberry Pi, Arduino |
+| Development | Linux, Git, CMake |
+
+### Publications & Research Outputs
+
+Research manuscripts and project documentation are in progress. Publications and preprints will be listed here when publicly available.
+
+### Contact
+
+I welcome conversations about robotics, embodied AI, computer vision, and research collaboration.
+
+- **Email:** [YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS)
+- **LinkedIn:** [Profile](YOUR_LINKEDIN_URL)
+- **GitHub:** [nguyenhuy0206](https://github.com/nguyenhuy0206)
+
